@@ -15,7 +15,6 @@ Discover the tools and frameworks I frequently use to streamline my development 
 ![Static Badge](https://img.shields.io/badge/Advanced-blue?style=for-the-badge&logo=django&logoColor=%23092E20&label=DJANGO)
 ![Static Badge](https://img.shields.io/badge/Advanced-blue?style=for-the-badge&logo=postgresql&logoColor=%234169E1&label=PostgresQL)
 ![Static Badge](https://img.shields.io/badge/Advanced-blue?style=for-the-badge&logo=gin&logoColor=%23008ECF&label=GIN)
-
 ![Static Badge](https://img.shields.io/badge/Advanced-blue?style=for-the-badge&logo=telegram&logoColor=%2326A5E4&label=Telegram%20Bot)
 ![Static Badge](https://img.shields.io/badge/Advanced-blue?style=for-the-badge&logo=docker&logoColor=%232496ED&label=Docker)
 ![Static Badge](https://img.shields.io/badge/Advanced-blue?style=for-the-badge&logo=Ubuntu&logoColor=%23E95420&label=Ubuntu)
@@ -25,7 +24,6 @@ Discover the tools and frameworks I frequently use to streamline my development 
 ![Static Badge](https://img.shields.io/badge/intermediate-green?style=for-the-badge&logo=cloudflare&logoColor=%230080FF&label=Digital%20Ocean)
 ![Static Badge](https://img.shields.io/badge/intermediate-green?style=for-the-badge&logo=figma&logoColor=%23F24E1E&label=Figma)
 ![Static Badge](https://img.shields.io/badge/intermediate-green?style=for-the-badge&logo=flask&logoColor=%23000000&label=Flask)
-
 
 ![Static Badge](https://img.shields.io/badge/Beginner-red?style=for-the-badge&logo=electron&logoColor=%2347848F&label=Electron)
 ![Static Badge](https://img.shields.io/badge/Beginner-red?style=for-the-badge&logo=react&logoColor=%2347848F&label=React%20Native%20)
