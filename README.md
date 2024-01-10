@@ -34,7 +34,7 @@ Discover the tools and frameworks I frequently use to streamline my development 
 
 [![Static Badge](https://img.shields.io/badge/primeakash-8A2BE2?style=for-the-badge&logo=telegram)](https://t.me/primeakash)
 [![Static Badge](https://img.shields.io/badge/GMAIL-8A2BE2?style=for-the-badge&logo=gmail)](mailto:botsgalaxyofficial@gmail.com)
-![Static Badge](https://img.shields.io/badge/linkedIN-8A2BE2?style=for-the-badge&logo=linkedin)
+[![Static Badge](https://img.shields.io/badge/linkedIN-8A2BE2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/NasirHossainAkash/)
 
 
 
