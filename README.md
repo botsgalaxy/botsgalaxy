@@ -38,4 +38,6 @@ Discover the tools and frameworks I frequently use to streamline my development 
 
 
 
+## Stats 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=botsgalaxy&show_icons=true&locale=en&layout=compact" alt="botsgalaxy" /></p>
 
