@@ -23,11 +23,11 @@ Discover the tools and frameworks I frequently use to streamline my development 
 ![Static Badge](https://img.shields.io/badge/intermediate-green?style=for-the-badge&logo=cloudflare&logoColor=%23F38020&label=Cloudflare)
 ![Static Badge](https://img.shields.io/badge/intermediate-green?style=for-the-badge&logo=cloudflare&logoColor=%230080FF&label=Digital%20Ocean)
 ![Static Badge](https://img.shields.io/badge/intermediate-green?style=for-the-badge&logo=figma&logoColor=%23F24E1E&label=Figma)
-![Static Badge](https://img.shields.io/badge/intermediate-green?style=for-the-badge&logo=flask&logoColor=%23000000&label=Flask)
+![Static Badge](https://img.shields.io/badge/Advanced-blue?style=for-the-badge&logo=flask&logoColor=%23000000&label=Flask)
 
 ![Static Badge](https://img.shields.io/badge/Beginner-red?style=for-the-badge&logo=electron&logoColor=%2347848F&label=Electron)
 ![Static Badge](https://img.shields.io/badge/Beginner-red?style=for-the-badge&logo=react&logoColor=%2347848F&label=React%20Native%20)
-![Static Badge](https://img.shields.io/badge/Beginner-red?style=for-the-badge&logo=graphql&logoColor=%23E10098&label=GraphQL)
+![Static Badge](https://img.shields.io/badge/Advanced-blue?style=for-the-badge&logo=graphql&logoColor=%23E10098&label=GraphQL)
 ![Static Badge](https://img.shields.io/badge/Beginner-red?style=for-the-badge&logo=kubernetes&logoColor=%23326CE5&label=Kubernetes)
 
 ## Contact Me 
