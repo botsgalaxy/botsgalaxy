@@ -7,9 +7,6 @@ I build fast, secure, production-grade systems with clean architecture and autom
 Calm, focused, and obsessed with writing elegant solutions that simply *work*.
 
 ---
-
-## 🎖️ Professional Badges
-
 ### **Languages**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
